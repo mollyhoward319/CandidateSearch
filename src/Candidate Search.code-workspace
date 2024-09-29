@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "environment",
+			"path": "../environment"
+		},
+		{
+			"name": "public",
+			"path": "../public"
+		},
+		{
+			"name": "src",
+			"path": "."
+		},
+		{
+			"name": "Candidate Search",
+			"path": "../../../../bootcamp/challenges/Candidate Search"
+		}
+	],
+	"settings": {}
+}
