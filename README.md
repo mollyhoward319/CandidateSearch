@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a web application that allows employers to search for potential candidates on GitHub and save them to a list of potential hires. This application leverages teh GitHub API to fetch candidate data and provides a simple interface for employers to browse through candidates, accept or reject them, and view the list of accepted candidates. The project is built with React and Typescript for a robust and type-safe development experience.
+This is a web application that allows employers to search for potential candidates on GitHub and save them to a list of potential hires. This application leverages the GitHub API to fetch candidate data and provides a simple interface for employers to browse through candidates, accept or reject them, and view the list of accepted candidates. The project is built with React and Typescript for a robust and type-safe development experience.
 
 ## User Story
 
