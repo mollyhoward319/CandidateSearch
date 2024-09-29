@@ -72,3 +72,7 @@ To deploy this application to Render, follow the instructions on [Render's deplo
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
+
+## Questions
+
+If you have any questions, contact me at: mollyhoward.developer@gmail.com
