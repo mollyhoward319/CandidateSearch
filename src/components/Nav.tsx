@@ -14,7 +14,7 @@ const Nav = () => {
           Potential Candidates
         </Link>
       </div>
-    </div>v
+    </div>
   )
 };
 
