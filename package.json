@@ -9,7 +9,7 @@
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
     "render-build": "npm install && npm run build",
-    "render-start": "npm install && npm run dev",
+    "render-start": "npm install && npm run dev && render-postbuild",
     "render-postbuild": "npm install --prefix frontend --production=false && cd /opt/render/project/src/frontend && npm run build"
   },
   "dependencies": {
