@@ -54,7 +54,7 @@ if (loading) {
 
   return (
     <div className="candidate-search-container">
-      <h1>CandidateSearch</h1>;
+      <h1>CandidateSearch</h1>
       {candidates.length > 0 ? (
         <>
           <div className="candidate-card">
