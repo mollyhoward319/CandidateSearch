@@ -65,10 +65,7 @@ This app fetches data from the GitHub API and displays candidate information. Us
 
 ## Deployment
 
-The application is deployed on Render. You can visit the live application here: [Candidate Search Application](https://candidatesearch.onrender.comv)
-
-To deploy this application to Render, follow the instructions on [Render's deployment guide](https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide).
-
+The application is deployed on Render. You can visit the live application here: [Candidate Search Application][(https://candidatesearch-1.onrender.com/)]
 
 ## License
 
